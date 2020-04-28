@@ -1,0 +1,13 @@
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\bin\Debug\FromPizzeria.exe
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\bin\Debug\Biblioteca.dll
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\bin\Debug\Biblioteca.pdb
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.csprojAssemblyReference.cache
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.FrmPrincipal.resources
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.FrmCliente.resources
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.FrmPedidos.resources
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.Login.resources
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.Properties.Resources.resources
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.csproj.GenerateResource.cache
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.exe
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.pdb
