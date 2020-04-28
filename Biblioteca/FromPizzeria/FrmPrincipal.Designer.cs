@@ -62,9 +62,9 @@
             // listPedidos
             // 
             this.listPedidos.FormattingEnabled = true;
-            this.listPedidos.Location = new System.Drawing.Point(331, 95);
+            this.listPedidos.Location = new System.Drawing.Point(331, 82);
             this.listPedidos.Name = "listPedidos";
-            this.listPedidos.Size = new System.Drawing.Size(384, 186);
+            this.listPedidos.Size = new System.Drawing.Size(384, 199);
             this.listPedidos.TabIndex = 3;
             // 
             // listClientes
@@ -72,7 +72,7 @@
             this.listClientes.FormattingEnabled = true;
             this.listClientes.Location = new System.Drawing.Point(24, 33);
             this.listClientes.Name = "listClientes";
-            this.listClientes.Size = new System.Drawing.Size(204, 173);
+            this.listClientes.Size = new System.Drawing.Size(204, 199);
             this.listClientes.TabIndex = 4;
             // 
             // timer1
@@ -101,7 +101,7 @@
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "FrmPrincipal";
-            this.Text = "Form1";
+            this.Text = "Atención al Cliente";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

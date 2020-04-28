@@ -117,7 +117,7 @@ namespace FromPizzeria
 
         private void btnCancelarPedido_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
         }
 
         private void btnBorrarPizza_Click(object sender, EventArgs e)

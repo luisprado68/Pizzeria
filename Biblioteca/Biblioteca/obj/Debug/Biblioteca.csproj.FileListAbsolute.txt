@@ -1,5 +1,6 @@
 C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\bin\Debug\Biblioteca.dll
 C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
 C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
 C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.dll
 C:\Users\luisp\Downloads\Tp5\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb

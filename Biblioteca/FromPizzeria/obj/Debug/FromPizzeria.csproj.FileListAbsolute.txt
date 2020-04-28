@@ -11,3 +11,6 @@ C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.cspr
 C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.csproj.CoreCompileInputs.cache
 C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.exe
 C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.pdb
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\bin\Debug\FromPizzeria.exe.config
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\bin\Debug\FromPizzeria.pdb
+C:\Users\luisp\Downloads\Tp5\Biblioteca\FromPizzeria\obj\Debug\FromPizzeria.csproj.CopyComplete
